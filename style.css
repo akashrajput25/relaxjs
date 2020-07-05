@@ -67,9 +67,9 @@ h1{
 {
     position: absolute;
     top: -40px;
-    left: 140px;
+    left: 120px;
     width: 20px;
-    height: 190px;
+    height: 170px;
     animation: rotate 7.5s linear forwards infinite;
     transform-origin: bottom center;
 }
