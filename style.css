@@ -112,7 +112,7 @@ h1{
     }
     to
     {
-     transform: scale(1.2);
+     transform: scale(1.1);
     }
 }
 
@@ -120,7 +120,7 @@ h1{
 {
     from
     {
-     transform: scale(1.2);
+     transform: scale(1.1);
     }
     to
     {
